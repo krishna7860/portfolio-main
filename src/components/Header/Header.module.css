@@ -1,0 +1,32 @@
+.Header {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  padding: 3rem 0rem 2rem 0rem;
+}
+.Header img {
+  height: 48px;
+  width: 48px;
+}
+.Header h1 {
+  margin: auto 0px;
+  margin-left: 0.5rem;
+  color: black;
+}
+.Header a {
+  color: black;
+}
+
+.Header a:hover,
+.Header a:active {
+  color: black;
+}
+
+@media only screen and (max-width: 600px) {
+  .Header {
+    padding: 1rem 1rem 2rem 1rem;
+  }
+  .Header h1 {
+    font-size: 1.5rem;
+  }
+}

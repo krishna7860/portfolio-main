@@ -1,0 +1,50 @@
+.About {
+  padding: 1.8rem 0rem;
+}
+
+.About p {
+  font-size: 1.3rem;
+  text-align: justify;
+}
+.tech {
+  display: flex;
+  padding: 1.6em 0rem;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.download {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tech > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5rem 0;
+  text-align: center;
+}
+
+.tech > div > img {
+  height: 48px;
+  width: 48px;
+  justify-content: start;
+  align-items: center;
+  margin: 0rem 1.5rem;
+}
+.tech > div > span {
+  color: #000;
+  margin: 0.3rem 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .About {
+    padding: 1rem 1rem;
+  }
+  .download {
+    flex-direction: column;
+  }
+}
