@@ -8,6 +8,27 @@
   height: 40vmin;
   pointer-events: none;
 }
+.cursor {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  position: absolute;
+
+  border: 5px solid rgba(0, 0, 0, 0.4);
+  z-index: -20;
+  transition-duration: 200ms;
+  transition-timing-function: ease-out;
+  animation: cursorAnim 0.5s infinite alternate;
+}
+
+@keyframes cursorAnim {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(0.7);
+  }
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
