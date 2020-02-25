@@ -1,0 +1,8 @@
+.writing {
+  padding: 3rem 0;
+}
+@media only screen and (max-width: 600px) {
+  .writing {
+    padding: 3rem 1rem;
+  }
+}
