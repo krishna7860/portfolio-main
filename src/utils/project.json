@@ -3,60 +3,60 @@
     "title": "Industrious Template",
     "desc": "I Created a Clone of Template Industrious Using HTML/CSS",
     "tech": ["HTML", "CSS"],
-    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/html-2.png"
+    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/html-2.png?raw=true"
   },
   {
     "title": "Second Template",
     "desc": "Clone of website , Responsive Using Grid/Flexes",
     "tech": ["HTML", "CSS"],
-    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/html-1.png"
+    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/html-1.png?raw=true"
   },
   {
     "title": "Chingu Cohort",
     "desc": "Clone of Chingu Cohort Website Using HTML, CSS, Javascript",
     "tech": ["HTML", "CSS", "Javascript"],
-    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/html-3.png"
+    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/html-3.png?raw=true"
   },
   {
     "title": "Scaffold CSS",
     "desc": "CSS Library Desgined for you, Minimistic Styles less Size and Way look Better You UI",
     "tech": ["HTML", "CSS", "Javascript"],
-    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/scaffold.png"
+    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/scaffold.png?raw=true"
   },
   {
     "title": "Hangman Game",
     "desc": "Hangman is a Game of Guessing Riddle, I created it using Javascript",
     "tech": ["HTML", "CSS", "Javascript"],
-    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/javascript-1.png"
+    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/javascript-1.png?raw=true"
   },
   {
     "title": "Custom HTTP Library Async/Await",
     "desc": "HTTP Library I have created two version's With promises and ES7 Async/Await",
     "tech": ["HTML", "CSS", "Javascript"],
-    "img": "https://miro.medium.com/max/2560/1*wLDL9yoAAlnRpJuD72-ryQ.png"
+    "img": "https://miro.medium.com/max/2560/1*wLDL9yoAAlnRpJuD72-ryQ.png?raw=true"
   },
   {
     "title": "Movie DB Project",
     "desc": "Get the Details Of Your Favourait Movie with top ratings",
     "tech": ["HTML", "CSS", "Javascript"],
-    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/javascript-3.png"
+    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/javascript-3.png?raw=true"
   },
   {
     "title": "Calorie Tracker App",
     "desc": "This I have made While Practicing Javascript Pattern Module Reavealing Pattern",
     "tech": ["HTML", "CSS", "Javascript"],
-    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/javascript-4.png"
+    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/javascript-4.png?raw=true"
   },
   {
     "title": "Healthify",
     "desc": "Keep Track of your calories and Exercise you do, Provided With a Healthy Meter",
     "tech": ["HTML", "CSS", "Javascript", "React", "Redux"],
-    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/react-1.png"
+    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/react-1.png?raw=true"
   },
   {
     "title": "Github Finder",
     "desc": "Using React I Have Created A Github Finder Application to Show Profiles and Data of Various Github Profiles",
     "tech": ["HTML", "CSS", "Javascript", "React"],
-    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/react-2.png"
+    "img": "https://github.com/krishna7860/portfolio-main/blob/master/images/react-2.png?raw=true"
   }
 ]
