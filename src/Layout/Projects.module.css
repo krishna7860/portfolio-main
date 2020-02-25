@@ -7,12 +7,15 @@
 
 .project {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 50%);
   grid-gap: 1rem;
 }
 
 @media only screen and (max-width: 600px) {
   .project {
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(1, 100%);
+  }
+  .Projects {
+    padding: 0 0.5rem;
   }
 }

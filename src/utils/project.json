@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Industrious Template",
+    "desc": "I Created a Clone of Template Industrious Using HTML/CSS",
+    "tech": ["HTML", "CSS"]
+  },
+  {
+    "title": "Second Template",
+    "desc": "Clone of website , Responsive Using Grid/Flexes",
+    "tech": ["HTML", "CSS"]
+  },
+  {
+    "title": "Chingu Cohort",
+    "desc": "Clone of Chingu Cohort Website Using HTML, CSS, Javascript",
+    "tech": ["HTML", "CSS", "Javascript"]
+  },
+  {
+    "title": "Hangman Game",
+    "desc": "Hangman is a Game of Guessing Riddle, I created it using Javascript",
+    "tech": ["HTML", "CSS", "Javascript"]
+  },
+  {
+    "title": "Custom HTTP Library Async/Await",
+    "desc": "HTTP Library I have created two version's With promises and ES7 Async/Await",
+    "tech": ["HTML", "CSS", "Javascript"]
+  },
+  {
+    "title": "Movie DB Project",
+    "desc": "Get the Details Of Your Favourait Movie with top ratings",
+    "tech": ["HTML", "CSS", "Javascript"]
+  },
+  {
+    "title": "Calorie Tracker App",
+    "desc": "This I have made While Practicing Javascript Pattern Module Reavealing Pattern",
+    "tech": ["HTML", "CSS", "Javascript"]
+  },
+  {
+    "title": "Healthify",
+    "desc": "Keep Track of your calories and Exercise you do, Provided With a Healthy Meter",
+    "tech": ["HTML", "CSS", "Javascript", "React", "Redux"]
+  },
+  {
+    "title": "Github Finder",
+    "desc": "Using React I Have Created A Github Finder Application to Show Profiles and Data of Various Github Profiles",
+    "tech": ["HTML", "CSS", "Javascript", "React"]
+  }
+]

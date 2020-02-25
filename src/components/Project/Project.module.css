@@ -1,0 +1,17 @@
+.github {
+  background: #000;
+  color: #fff;
+  margin: 0rem 0.5rem;
+}
+
+.github:hover {
+  opacity: 0.8;
+  background-color: #000;
+  color: #fff;
+  border: 1px solid white;
+}
+
+.tech {
+  display: flex;
+  padding: 1rem 0rem;
+}
