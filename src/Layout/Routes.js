@@ -22,7 +22,7 @@ export default function Routes() {
             <Route path="/about" exact component={About}></Route>
             <Route path="/projects" exact component={Projects}></Route>
             <Route path="/writings" component={Writings}></Route>
-            <Route path="/achievement" component={Achievement}></Route>
+            {/* <Route path="/achievement" component={Achievement}></Route> */}
           </Switch>
         </Col>
       </Row>
