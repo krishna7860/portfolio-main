@@ -22,6 +22,8 @@ export default function Projects() {
             desc={item.desc}
             image={item.img}
             tech={item.tech}
+            live={item.live}
+            github={item.github}
           ></Project>
         ))}
       </div>

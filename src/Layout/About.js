@@ -76,13 +76,13 @@ export default function About() {
       </Row>
       <Row>
         <Col>
-          <Title level={3}>Statics</Title>
+          <Title level={3}>Statistics</Title>
           <Statics></Statics>
         </Col>
       </Row>
       <Row>
         <Col>
-          <Title level={3}>Github Statics</Title>
+          <Title level={3}>Github Statistics</Title>
           <img src={github} className={styles.github} />
         </Col>
       </Row>
