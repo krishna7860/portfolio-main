@@ -1,7 +1,7 @@
 import React from "react";
 import { Typography, Row, Col, Icon, Button } from "antd";
 import styles from "./About.module.css";
-import github from "../assets/statics.png";
+import GitHubCalendar from "react-github-calendar";
 import me from "../assets/ME.jpeg";
 import Proficiency from "../components/Proficiency/Proficiency";
 import TechStack from "../components/TechStack/TechStack";
@@ -86,7 +86,11 @@ export default function About() {
       <Row>
         <Col>
           <Title level={3}>Github Statistics</Title>
-          <img src={github} className={styles.github} />
+          <GitHubCalendar
+            username="krishna7860"
+            blockSize={16}
+            tooltips={true}
+          />
         </Col>
       </Row>
     </div>
