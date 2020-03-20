@@ -6,6 +6,7 @@ import me from "../assets/ME.jpeg";
 import Proficiency from "../components/Proficiency/Proficiency";
 import TechStack from "../components/TechStack/TechStack";
 import Tools from "../components/Tools/Tools";
+import resume from "../assets/resume.pdf";
 import Statics from "../components/Statics/Statics";
 const { Title } = Typography;
 
@@ -46,9 +47,11 @@ export default function About() {
               <Icon type="twitter" />
             </a>
           </div>
-          <Button type="primary" className={styles.download}>
-            DOWNLOAD CV
-          </Button>
+          <a href={resume} download>
+            <Button type="primary" className={styles.download}>
+              DOWNLOAD CV
+            </Button>
+          </a>
         </Col>
         <Col lg={{ span: 12 }} md={{ span: 24 }} sm={{ span: 24 }}>
           <div className={styles.photo}>

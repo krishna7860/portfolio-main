@@ -9,6 +9,7 @@ import flask from "../assets/flask.svg";
 import python from "../assets/python.svg";
 import database from "../assets/database.svg";
 import react from "../assets/react.svg";
+import resume from "../assets/resume.pdf";
 import mongodb from "../assets/mongodb.svg";
 const { Title } = Typography;
 
@@ -24,7 +25,9 @@ export default function Home() {
         <Col span={24}>
           <Col className={styles.download}>
             <Title level={3}>Technology Stack : MERN Stack </Title>
-            <Button type="primary">Download CV</Button>
+            <a href={resume} download>
+              <Button type="primary">Download CV</Button>
+            </a>
           </Col>
           <div className={styles.tech}>
             <div>

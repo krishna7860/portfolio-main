@@ -13,7 +13,7 @@ export default function Statics() {
         <span>Datastructure Problem and Algorithm's </span>
       </div>
       <div>
-        <div>500+</div>
+        <div>600+</div>
         <span>Git Contribution</span>
       </div>
       <div>
