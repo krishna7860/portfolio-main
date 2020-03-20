@@ -8,7 +8,7 @@ const { Title } = Typography;
 export default function Writings() {
   return (
     <div className={styles.writing}>
-      <Title level={3}>My Writing's</Title>
+      <Title level={3}>My Blog's</Title>
       {blog.map(item => (
         <Blog
           key={item.title}

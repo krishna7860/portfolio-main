@@ -12,7 +12,7 @@ export default function Navigation() {
         /Projects
       </NavLink>
       <NavLink activeClassName={styles.active} to="/writings">
-        /Writings
+        /Blogs
       </NavLink>
       <NavLink activeClassName={styles.active} to="/achievement">
         /Achievement
