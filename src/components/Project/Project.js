@@ -12,16 +12,16 @@ export default function Project({ title, desc, tech, image, live, github }) {
     >
       <h3>{title}</h3>
       <p>{desc}</p>
-      <Button icon="play-circle" type="primary">
-        <a className={styles.color} href={live} target="_blank">
+      <a className={styles.color} href={live} target="_blank">
+        <Button icon="play-circle" type="primary">
           Live Preview
-        </a>
-      </Button>
-      <Button className={styles.github} icon="github">
-        <a className={styles.color} href={github} target="_blank">
+        </Button>
+      </a>
+      <a className={styles.color} href={github} target="_blank">
+        <Button className={styles.github} icon="github">
           Github
-        </a>
-      </Button>
+        </Button>
+      </a>
       <br></br>
       <div className={styles.tech}>
         {tech.map(item => (
