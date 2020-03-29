@@ -16,6 +16,14 @@
     "github": "https://github.com/krishna7860/github-finder-react"
   },
   {
+    "title": "Myntra Clone",
+    "desc": "Using React I Have Created A Myntra Clone With Dynamic Routing",
+    "tech": ["HTML", "CSS", "Javascript", "React", "React Router"],
+    "img": "https://github.com/krishna7860/Myntra-Clone/blob/master/Screenshot%20from%202020-03-29%2020-53-22.png?raw=true",
+    "live": "https://myntra-clone-krishna.netlify.com/",
+    "github": "https://github.com/krishna7860/Myntra-Clone"
+  },
+  {
     "title": "Hangman Game",
     "desc": "Hangman is a Game of Guessing Riddle, I created it using Javascript",
     "tech": ["HTML", "CSS", "Javascript"],
