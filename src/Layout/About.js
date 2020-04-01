@@ -34,16 +34,16 @@ export default function About() {
             <span>Location : </span> <span>Bangalore</span>
           </p>
           <div className={styles.social}>
-            <a target="_blank" href="">
+            <a target="_blank" href="https://www.linkedin.com/in/krishna-sharma-881152120/">
               <Icon type="linkedin" />
             </a>
-            <a target="_blank" href="">
+            <a target="_blank" href="https://www.instagram.com/___coderpanda___/">
               <Icon type="instagram" />
             </a>
-            <a target="_blank" href="">
+            <a target="_blank" href="https://github.com/krishna7860">
               <Icon type="github" />
             </a>
-            <a target="_blank" href="">
+            <a target="_blank" href="https://twitter.com/iamKrishnaSharm">
               <Icon type="twitter" />
             </a>
           </div>
